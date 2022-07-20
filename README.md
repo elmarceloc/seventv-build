@@ -1,0 +1,1 @@
+This repository is used to host a built version of the 7tv browser extension in order to test it in OBS Studio via a script injection.
